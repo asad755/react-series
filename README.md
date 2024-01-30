@@ -73,3 +73,4 @@ React debugger
 - adding classNames
 - inline styling: adding styles in double brackets {{...}} or object in single bracket
 - everything is camelCase and stringified
+# daywari
